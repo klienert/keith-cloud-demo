@@ -8,6 +8,8 @@ function App() {
       </header>
       <main className="App-main">
         <p>Main Section</p>
+        <p>Holy crap, it worked!</p>
+        
       </main>
       
     </div>
