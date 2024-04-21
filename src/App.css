@@ -11,6 +11,13 @@
   color: white;  
 }
 
+.App-description {
+  color: whitesmoke;
+  margin: 0;
+  padding: .5em;  
+  
+}
+
 .App-counter {
   color: lightgray;
   font-size: 2em;
